@@ -49,7 +49,7 @@ pip install human-seconds
 ### Basic usage
 
 ```python
-from human_seconds import SecondsToTime
+from human_seconds.converter import SecondsToTime
 
 time = SecondsToTime(3675)
 print(time.format_to_human_readable())
