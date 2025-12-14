@@ -153,7 +153,7 @@ Example usage
 
 ```python
 
-from converter import SecondsToTime
+from human_seconds.converter import SecondsToTime
 
 time = SecondsToTime(3675)
 
