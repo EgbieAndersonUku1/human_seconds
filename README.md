@@ -1,3 +1,8 @@
+
+[![PyPI Downloads](https://static.pepy.tech/personalized-badge/human-seconds?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/human-seconds)
+[![PyPI Version](https://img.shields.io/pypi/v/human-seconds?color=blue)](https://pypi.org/project/human-seconds)
+[![License](https://img.shields.io/pypi/l/human-seconds?color=orange)](https://github.com/<your-username>/human-seconds/blob/main/LICENSE)
+
 # Human Seconds
 
 Convert a number of seconds into a **human-readable time string**.
